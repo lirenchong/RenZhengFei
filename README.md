@@ -17,14 +17,13 @@
 - AllHistory
   1994-2018任正历年非文集原始数据，不做点评污染
   Fork自`ttpianobirds/RenZhengfei`
-  `Task` 文件名按改为英文命名，按照[命名用英文，烦恼少大半 · 团队文档命名指南](https://ishanshan.im/community/HbDocName.html)方法，便于未来机读处理。或许会得到什么神奇的结论呢？埋个坑先ˋ▽ˊψ～
+  `Task` 文件名按改为英文命名，按照[《命名用英文，烦恼少大半 · 团队文档命名指南》](https://ishanshan.im/community/HbDocName.html)方法，便于未来机读处理。或许会得到什么神奇的结论呢？埋个坑先ˋ▽ˊψ～
 - Data
   其他相关资料放这里
 - Report
   需要输出的分析报告
 - Guide
   导读
-
 
 可能过于浩大的工程：计划分年度逐渐评读任正非，还原……成长历程
 
